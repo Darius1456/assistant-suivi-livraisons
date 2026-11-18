@@ -1,0 +1,1 @@
+order_id,supplier_id,supplier_name_clean,supplier_name_raw,item_id,item_category,item_criticality,order_qty,unit_price_eur,order_total_eur,order_date,promised_date,actual_delivery_date,contractual_lead_time_days,days_until_promised,delay_days,is_late,actual_lead_time_days,status

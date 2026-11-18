@@ -1,0 +1,77 @@
+{
+  "metrics": {
+    "v0_baseline": {
+      "name": "Baseline v0 (Règle déterministe)",
+      "recall_pct": 100.0,
+      "precision_pct": 29.1,
+      "false_positive_rate_pct": 100.0,
+      "avg_anticipation_days": 8.2,
+      "true_positives": 37,
+      "false_positives": 90,
+      "false_negatives": 0,
+      "true_negatives": 0
+    },
+    "v1_machine_learning": {
+      "name": "Modèle IA v1 (Random Forest Supervisé)",
+      "roc_auc": 0.735,
+      "recall_pct": 70.3,
+      "precision_pct": 46.4,
+      "false_positive_rate_pct": 33.3,
+      "avg_anticipation_days": 17.6,
+      "true_positives": 26,
+      "false_positives": 30,
+      "false_negatives": 11,
+      "true_negatives": 60
+    }
+  },
+  "feature_importances": [
+    {
+      "feature": "supplier_late_rate_pct",
+      "importance_pct": 11.78
+    },
+    {
+      "feature": "order_qty",
+      "importance_pct": 10.82
+    },
+    {
+      "feature": "order_total_eur",
+      "importance_pct": 10.33
+    },
+    {
+      "feature": "supplier_otd_pct",
+      "importance_pct": 9.87
+    },
+    {
+      "feature": "unit_price_eur",
+      "importance_pct": 9.13
+    },
+    {
+      "feature": "supplier_avg_delay_late_only",
+      "importance_pct": 8.87
+    },
+    {
+      "feature": "supplier_std_delay",
+      "importance_pct": 8.57
+    },
+    {
+      "feature": "lead_time_compression_ratio",
+      "importance_pct": 8.05
+    },
+    {
+      "feature": "order_day_of_week",
+      "importance_pct": 7.03
+    },
+    {
+      "feature": "order_month",
+      "importance_pct": 7.0
+    },
+    {
+      "feature": "contractual_lead_time_days",
+      "importance_pct": 6.83
+    },
+    {
+      "feature": "criticality_score",
+      "importance_pct": 1.72
+    }
+  ]
+}

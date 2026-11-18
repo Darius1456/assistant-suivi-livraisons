@@ -1,0 +1,282 @@
+[
+  {
+    "order_id": "CMD-2026-0245",
+    "urgency_score": 125.6,
+    "email_draft": {
+      "order_id": "CMD-2026-0245",
+      "recipient": "adv@sup-005.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0245 - Échéance du 2026-11-23 - Confirmation d'expédition",
+      "body": "Bonjour Apex Electronics,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0245\n- Référence article    : ITM-005-16 (Composant critique)\n- Quantité attendue    : 186 unités\n- Date de livraison convenue : 2026-11-23 (dans 19 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0245 à Risque (80.9%)",
+      "supplier": "Apex Electronics",
+      "item": "ITM-005-16 (Haute)",
+      "promised_date": "2026-11-23",
+      "urgency_score": "125.6",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Historique fournisseur dégradé (Taux de retard: 58%)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0019",
+    "urgency_score": 119.7,
+    "email_draft": {
+      "order_id": "CMD-2026-0019",
+      "recipient": "adv@sup-005.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0019 - Échéance du 2026-11-14 - Confirmation d'expédition",
+      "body": "Bonjour Apex Electronics,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0019\n- Référence article    : ITM-005-61 (Composant critique)\n- Quantité attendue    : 353 unités\n- Date de livraison convenue : 2026-11-14 (dans 10 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0019 à Risque (77.1%)",
+      "supplier": "Apex Electronics",
+      "item": "ITM-005-61 (Haute)",
+      "promised_date": "2026-11-14",
+      "urgency_score": "119.7",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Fournisseur à risque (58% retards) + Délai contractuel compressé (0.68x)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0383",
+    "urgency_score": 114.6,
+    "email_draft": {
+      "order_id": "CMD-2026-0383",
+      "recipient": "adv@sup-005.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0383 - Échéance du 2026-11-17 - Confirmation d'expédition",
+      "body": "Bonjour Apex Electronics,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0383\n- Référence article    : ITM-005-70 (Composant critique)\n- Quantité attendue    : 481 unités\n- Date de livraison convenue : 2026-11-17 (dans 13 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0383 à Risque (73.8%)",
+      "supplier": "Apex Electronics",
+      "item": "ITM-005-70 (Haute)",
+      "promised_date": "2026-11-17",
+      "urgency_score": "114.6",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Fournisseur à risque (58% retards) + Délai contractuel compressé (0.77x)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0041",
+    "urgency_score": 111.5,
+    "email_draft": {
+      "order_id": "CMD-2026-0041",
+      "recipient": "adv@sup-005.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0041 - Échéance du 2026-11-06 - Confirmation d'expédition",
+      "body": "Bonjour Apex Electronics,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0041\n- Référence article    : ITM-005-99 (Composant critique)\n- Quantité attendue    : 65 unités\n- Date de livraison convenue : 2026-11-06 (dans 2 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0041 à Risque (82.6%)",
+      "supplier": "Apex Electronics",
+      "item": "ITM-005-99 (Haute)",
+      "promised_date": "2026-11-06",
+      "urgency_score": "111.5",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Fournisseur à risque (58% retards) + Délai contractuel compressé (0.77x)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0116",
+    "urgency_score": 110.3,
+    "email_draft": {
+      "order_id": "CMD-2026-0116",
+      "recipient": "adv@sup-005.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0116 - Échéance du 2026-11-19 - Confirmation d'expédition",
+      "body": "Bonjour Apex Electronics,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0116\n- Référence article    : ITM-005-81 (Composant critique)\n- Quantité attendue    : 197 unités\n- Date de livraison convenue : 2026-11-19 (dans 15 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0116 à Risque (81.7%)",
+      "supplier": "Apex Electronics",
+      "item": "ITM-005-81 (Haute)",
+      "promised_date": "2026-11-19",
+      "urgency_score": "110.3",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Historique fournisseur dégradé (Taux de retard: 58%)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0380",
+    "urgency_score": 103.5,
+    "email_draft": {
+      "order_id": "CMD-2026-0380",
+      "recipient": "adv@sup-005.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0380 - Échéance du 2026-12-10 - Confirmation d'expédition",
+      "body": "Bonjour Apex Electronics,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0380\n- Référence article    : ITM-005-24 (Composant critique)\n- Quantité attendue    : 222 unités\n- Date de livraison convenue : 2026-12-10 (dans 36 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0380 à Risque (76.7%)",
+      "supplier": "Apex Electronics",
+      "item": "ITM-005-24 (Haute)",
+      "promised_date": "2026-12-10",
+      "urgency_score": "103.5",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Historique fournisseur dégradé (Taux de retard: 58%)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0039",
+    "urgency_score": 99.7,
+    "email_draft": {
+      "order_id": "CMD-2026-0039",
+      "recipient": "adv@sup-005.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0039 - Échéance du 2026-11-13 - Confirmation d'expédition",
+      "body": "Bonjour Apex Electronics,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0039\n- Référence article    : ITM-005-55 (Composant critique)\n- Quantité attendue    : 409 unités\n- Date de livraison convenue : 2026-11-13 (dans 9 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0039 à Risque (78.8%)",
+      "supplier": "Apex Electronics",
+      "item": "ITM-005-55 (Moyenne)",
+      "promised_date": "2026-11-13",
+      "urgency_score": "99.7",
+      "recommended_action": "Relance proactive fournisseur",
+      "alternative_supplier": "Non requis",
+      "key_risk_driver": "Fournisseur à risque (58% retards) + Délai contractuel compressé (0.77x)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0052",
+    "urgency_score": 96.3,
+    "email_draft": {
+      "order_id": "CMD-2026-0052",
+      "recipient": "adv@sup-003.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0052 - Échéance du 2026-11-29 - Confirmation d'expédition",
+      "body": "Bonjour Global Metal Works,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0052\n- Référence article    : ITM-003-41 (Matière première)\n- Quantité attendue    : 85 unités\n- Date de livraison convenue : 2026-11-29 (dans 25 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0052 à Risque (71.3%)",
+      "supplier": "Global Metal Works",
+      "item": "ITM-003-41 (Haute)",
+      "promised_date": "2026-11-29",
+      "urgency_score": "96.3",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Historique fournisseur dégradé (Taux de retard: 43%)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0440",
+    "urgency_score": 94.4,
+    "email_draft": {
+      "order_id": "CMD-2026-0440",
+      "recipient": "adv@sup-003.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0440 - Échéance du 2026-12-18 - Confirmation d'expédition",
+      "body": "Bonjour Global Metal Works,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0440\n- Référence article    : ITM-003-35 (Matière première)\n- Quantité attendue    : 117 unités\n- Date de livraison convenue : 2026-12-18 (dans 44 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0440 à Risque (69.9%)",
+      "supplier": "Global Metal Works",
+      "item": "ITM-003-35 (Haute)",
+      "promised_date": "2026-12-18",
+      "urgency_score": "94.4",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Historique fournisseur dégradé (Taux de retard: 43%)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0432",
+    "urgency_score": 93.2,
+    "email_draft": {
+      "order_id": "CMD-2026-0432",
+      "recipient": "adv@sup-003.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0432 - Échéance du 2026-11-08 - Confirmation d'expédition",
+      "body": "Bonjour Global Metal Works,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0432\n- Référence article    : ITM-003-24 (Matière première)\n- Quantité attendue    : 59 unités\n- Date de livraison convenue : 2026-11-08 (dans 4 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0432 à Risque (69.0%)",
+      "supplier": "Global Metal Works",
+      "item": "ITM-003-24 (Haute)",
+      "promised_date": "2026-11-08",
+      "urgency_score": "93.2",
+      "recommended_action": "Plan de contingence & Sécurisation prioritaire",
+      "alternative_supplier": "Acme Components (OTD: 92.1%)",
+      "key_risk_driver": "Historique fournisseur dégradé (Taux de retard: 43%)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0168",
+    "urgency_score": 87.2,
+    "email_draft": {
+      "order_id": "CMD-2026-0168",
+      "recipient": "adv@sup-005.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0168 - Échéance du 2026-11-02 - Confirmation d'expédition",
+      "body": "Bonjour Apex Electronics,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0168\n- Référence article    : ITM-005-27 (Composant critique)\n- Quantité attendue    : 29 unités\n- Date de livraison convenue : 2026-11-02 (dans -2 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0168 à Risque (79.3%)",
+      "supplier": "Apex Electronics",
+      "item": "ITM-005-27 (Moyenne)",
+      "promised_date": "2026-11-02",
+      "urgency_score": "87.2",
+      "recommended_action": "Relance proactive fournisseur",
+      "alternative_supplier": "Non requis",
+      "key_risk_driver": "Historique fournisseur dégradé (Taux de retard: 58%)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0262",
+    "urgency_score": 86.9,
+    "email_draft": {
+      "order_id": "CMD-2026-0262",
+      "recipient": "adv@sup-003.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0262 - Échéance du 2026-11-19 - Confirmation d'expédition",
+      "body": "Bonjour Global Metal Works,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0262\n- Référence article    : ITM-003-20 (Matière première)\n- Quantité attendue    : 344 unités\n- Date de livraison convenue : 2026-11-19 (dans 15 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0262 à Risque (68.7%)",
+      "supplier": "Global Metal Works",
+      "item": "ITM-003-20 (Moyenne)",
+      "promised_date": "2026-11-19",
+      "urgency_score": "86.9",
+      "recommended_action": "Relance proactive fournisseur",
+      "alternative_supplier": "Non requis",
+      "key_risk_driver": "Fournisseur à risque (43% retards) + Délai contractuel compressé (0.83x)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0374",
+    "urgency_score": 73.2,
+    "email_draft": {
+      "order_id": "CMD-2026-0374",
+      "recipient": "adv@sup-003.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0374 - Échéance du 2026-11-11 - Confirmation d'expédition",
+      "body": "Bonjour Global Metal Works,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0374\n- Référence article    : ITM-003-54 (Matière première)\n- Quantité attendue    : 423 unités\n- Date de livraison convenue : 2026-11-11 (dans 7 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0374 à Risque (70.7%)",
+      "supplier": "Global Metal Works",
+      "item": "ITM-003-54 (Basse)",
+      "promised_date": "2026-11-11",
+      "urgency_score": "73.2",
+      "recommended_action": "Relance proactive fournisseur",
+      "alternative_supplier": "Non requis",
+      "key_risk_driver": "Fournisseur à risque (43% retards) + Délai contractuel compressé (0.55x)"
+    }
+  },
+  {
+    "order_id": "CMD-2026-0678",
+    "urgency_score": 59.4,
+    "email_draft": {
+      "order_id": "CMD-2026-0678",
+      "recipient": "adv@sup-002.com",
+      "subject": "[SUIVI LIVRAISON] Commande CMD-2026-0678 - Échéance du 2026-10-31 - Confirmation d'expédition",
+      "body": "Bonjour LogiTech Solutions,\n\nNous nous permettons de vous contacter dans le cadre du suivi de notre commande référencée ci-dessous :\n\n- Numéro de commande : CMD-2026-0678\n- Référence article    : ITM-002-27 (Électronique)\n- Quantité attendue    : 28 unités\n- Date de livraison convenue : 2026-10-31 (dans -4 jours)\n\nDans le cadre de la sécurisation proactive de notre planning de production, nous souhaitons nous assurer que l'ordonnancement de cette commande se déroule conformément au calendrier convenu.\n\nPourriez-vous nous confirmer par retour de courriel que l'expédition est bien maintenue pour cette date, et le cas échéant, nous transmettre le numéro de suivi du transporteur ?\n\nEn vous remerciant pour votre collaboration habituelle,\n\nCordialement,\nDarius Kabore\nPôle Achats & Approvisionnements\nEmail : d.kabore@entreprise-demo.com | Tél : +33 1 40 00 00 00\n"
+    },
+    "internal_alert": {
+      "title": "🚨 Alerte Approvisionnement : Commande CMD-2026-0678 à Risque (66.0%)",
+      "supplier": "LogiTech Solutions",
+      "item": "ITM-002-27 (Basse)",
+      "promised_date": "2026-10-31",
+      "urgency_score": "59.4",
+      "recommended_action": "Relance proactive fournisseur",
+      "alternative_supplier": "Non requis",
+      "key_risk_driver": "Profil conforme aux standards"
+    }
+  }
+]

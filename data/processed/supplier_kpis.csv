@@ -1,0 +1,1 @@
+supplier_id,supplier_name_clean,total_orders_delivered,on_time_orders,late_orders,otd_rate_pct,late_rate_pct,avg_delay_days_all,avg_delay_days_late_only,max_delay_days,std_delay_days,avg_actual_lead_time_days,critical_orders_count,total_spend_eur
